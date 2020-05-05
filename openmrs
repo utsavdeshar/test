@@ -39,7 +39,7 @@
 
   <link rel="assets" href="https://github.githubassets.com/">
   
-  <meta name="pjax-timeout" content="1000">
+  <meta name="pjax-timeout" content="10000">
   
   <meta name="request-id" content="A828:065C:344535:606F07:5CB80FCB" data-pjax-transient>
 
